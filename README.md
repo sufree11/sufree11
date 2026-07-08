@@ -9,10 +9,10 @@ These building blocks make up who I am and what I strive to be in the future!
 ### Tech Stack
 |||
 |-----:|---------------|
-|Languages|PHP, Java, C++, .NET, SQL|
-|Web|Node.js, TailwindCSS, React|
+|Languages|PHP, Java, JavaScript C++, VB.NET, SQL|
+|Frameworks / Libraries|Node.js, TailwindCSS, React, Vite|
 |Database|MySQL, NoSQL(FireBase)|
-|Tools|Figma, Github, DigitalOcean|
+|Tools|Figma, GitHub, DigitalOcean|
 
 ### More about me!
 Outside of coding, you can find me delving into:
