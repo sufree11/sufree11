@@ -27,5 +27,5 @@ Let's get along!
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=sufree11&rank_icon=default&hide_rank=true&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=radical)](https://github-stats-extended.vercel.app/api?username=sufree11&rank_icon=default&hide_rank=true&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=radical)
 
 ```
-System.out.println("Memento Nori");
+System.out.println("Memento Mori");
 ```
