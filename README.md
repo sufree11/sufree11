@@ -23,9 +23,3 @@ Outside of coding, you can find me delving into:
 * Gaming (Minecraft <img src="assets/mc.png" width=16px height=16px>, Persona <img src="assets/yukiko.gif" width=16px height=auto>, and more!)
 
 Let's get along! 
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=sufree11&rank_icon=default&hide_rank=true&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=radical)](https://github-stats-extended.vercel.app/api?username=sufree11&rank_icon=default&hide_rank=true&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=radical)
-
-```
-System.out.println("Memento Mori");
-```
