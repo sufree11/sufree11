@@ -7,12 +7,15 @@
 These building blocks make up who I am and what I strive to be in the future!
 
 ### Tech Stack
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=sufree11&layout=compact&langs_count=12&hide_values=true&disable_animations=true&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=sufree11&layout=compact&langs_count=12&hide_values=true&disable_animations=true&theme=transparent)
 |||
 |-----:|---------------|
-|Languages|PHP, Java, JavaScript C++, VB.NET, SQL|
 |Frameworks / Libraries|Node.js, TailwindCSS, React, Vite|
 |Database|MySQL, NoSQL(FireBase)|
 |Tools|Figma, GitHub, DigitalOcean|
+
+
 
 ### More about me!
 Outside of coding, you can find me delving into:
